@@ -19,7 +19,7 @@
 *   **Programming Languages:** C++, MATLAB
 *   **Software Libraries:** PETSc, Intel MKL, FreeFEM++
 *   **Parallel Computing:** MPI, OpenMP
-*   **Works Participated in:** 2D/3D FEM, MsFEM, HelmHoltz Equation, Maxwell Equation, 2-grid preconditioner based on MKL Pardiso together with Matlab. etc. 
+*   **Works Participated in:** 2D/3D FEM, MsFEM, HelmHoltz Equation, Maxwell Equation, 2-grid preconditioner based on PETSc. etc. 
 
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I enjoy solving Rubik's cubes in my spare time.
