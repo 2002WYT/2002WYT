@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @2002WYT.
 - 👀 I’m interested in Computational Mathematics.
-- 🌱 I’m currently learning Finite Element Method.
+- 🌱 I’m currently learning Finite Element Methods.
 - 💞️ I’m looking to collaborate on projects related to developing efficient solvers, implementing advanced numerical methods, or applying computational techniques.
-- 📫 You can reach me via 2002wyt@sjtu.edu.cn
+- 📫 You can reach me via 2002wyt@sjtu.edu.cn or ytwang@eitech.edu.cn
 
 **Education:**
 
@@ -19,7 +19,7 @@
 *   **Programming Languages:** C++, MATLAB
 *   **Software Libraries:** PETSc, Intel MKL, FreeFEM++
 *   **Parallel Computing:** MPI, OpenMP
-*   **Works Participated in:** 2D/3D FEM, MsFEM, HelmHoltz Equation, Maxwell Equation, 2-grid & 3-grid multi-scale preconditioner of elliptic function based on PETSc. etc. 
+*   **Works Participated in:** 2D/3D FEM, MsFEM, HelmHoltz Equation, Maxwell Equation, 2-grid & 3-grid multi-scale preconditioner of elliptic function based on PETSc. Topology Optimizations with MMP and ICTM. etc. 
 
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I enjoy solving Rubik's cubes in my spare time.
